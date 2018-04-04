@@ -1,0 +1,36 @@
+body{
+   
+}
+
+container{
+    margin : 20px 0;
+}
+row{
+    display: inline-block;
+}
+.titreexo{
+        border: 5px inset darkcyan;
+        margin : 10px 0px;
+}
+
+
+h1{
+   text-align: center;
+
+}
+
+input{
+    margin : 0px 10px;
+}
+
+
+.explication{
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.contenu {
+    /*margin-right: 20px;*/
+    text-align: center;
+    
+}
